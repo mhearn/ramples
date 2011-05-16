@@ -3,7 +3,7 @@
 }
 
 body {
-	background: #cff;
+	background: #efe2cb;
 }
 
 header {
@@ -29,17 +29,17 @@ section h1 {
 /* links */
 
 a {
-	color: #09c;
+	color: #ac9b7c;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #069;
+	color: #9c7c3f;
 	text-decoration: underline;
 }
 
 a:visited {
-	color: #069;
+	color: #9c7c3f;
 }
 
 /* Navigation */
@@ -68,7 +68,7 @@ nav ul li a {
 }
 
 nav ul li a:visited {
-	color: #09c;
+	color: #9c7c3f;
 }
 
 nav ul li a:hover {
@@ -84,7 +84,7 @@ a.signup_button {
 	text-align: center;
 	width: 190px;
 	color: #fff;
-	background: #006400;
+	background: #594624;
 	font-size: 150%;
 	font-weight: bold;
 	padding: 20px;
