@@ -3,7 +3,7 @@
 }
 
 body {
-	background: #efe2cb;
+	background: #ffccff;
 }
 
 header {
@@ -17,7 +17,7 @@ header img {
 
 section {
 	margin-top: 1em;
-	font-ize: 120%;
+	font-size: 120%;
 	padding: 20px;
 	background: #fff;
 }
@@ -29,23 +29,26 @@ section h1 {
 /* links */
 
 a {
-	color: #ac9b7c;
+	color: #7dd65b;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #9c7c3f;
+	color: #7dd65b;
 	text-decoration: underline;
 }
 
 a:visited {
-	color: #9c7c3f;
+	color: #7dd65b;
 }
 
 /* Navigation */
 
 nav {
 	float: right;
+}
+
+nav {
 	background: white;
 	padding: 0 0.7em;
 	white-space: nowrap;
@@ -68,7 +71,7 @@ nav ul li a {
 }
 
 nav ul li a:visited {
-	color: #9c7c3f;
+	color: #7dd65b;
 }
 
 nav ul li a:hover {
@@ -84,7 +87,7 @@ a.signup_button {
 	text-align: center;
 	width: 190px;
 	color: #fff;
-	background: #594624;
+	background: #745293;
 	font-size: 150%;
 	font-weight: bold;
 	padding: 20px;
@@ -126,7 +129,7 @@ td.sidebar {
   width: 30%;
   padding: 1em;
   vertical-align: top;
-  background: #ffc;
+  background: #dbff70;
 }
 
 .profile img.gravatar{
