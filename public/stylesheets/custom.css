@@ -46,6 +46,7 @@ a:visited {
 
 nav {
 	float: right;
+	min-width: 200px;
 }
 
 nav {
