@@ -62,6 +62,8 @@ nav ul {
 nav ul li {
 	list-style-type: none;
 	display: inline-block;
+	zoom: 1;			/* Hack for inline block on IE7 */
+	*display:inline;	/* Hack for inline block on IE7 */
 	padding: 0.2em 0;
 }
 
