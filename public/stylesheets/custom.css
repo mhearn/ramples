@@ -3,7 +3,7 @@
 }
 
 body {
-	background: #ffccff;
+	background: #e6ccff;
 }
 
 header {
@@ -129,10 +129,14 @@ td.sidebar {
   width: 30%;
   padding: 1em;
   vertical-align: top;
-  background: #dbff70;
+  background: #e6ff80;
 }
 
 .profile img.gravatar{
   border: 1px solid #999;
   margin-bottom: -15px
+}
+
+div.field, div.actions {
+  margin-bottom: 15px;
 }
