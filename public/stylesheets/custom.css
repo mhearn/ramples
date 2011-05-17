@@ -1,5 +1,6 @@
 .container {
 	width: 710px;	
+	vertical-align: top;
 }
 
 body {
@@ -46,6 +47,7 @@ a:visited {
 
 nav {
 	float: right;
+	
 }
 
 nav {
