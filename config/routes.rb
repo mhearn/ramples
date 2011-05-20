@@ -10,7 +10,7 @@ StormDispatch::Application.routes.draw do
   match '/faq',     :to => 'pages#faq'
   match '/signup',  :to => 'users#new'
   match '/signin',  :to => 'sessions#new'
-  match '/signout', :to => 'sessions#destory'
+  match '/signout', :to => 'sessions#destroy'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
