@@ -3,7 +3,7 @@
 }
 
 body {
-	background: #e6ccff;
+	background: #ffa366;
 }
 
 header {
@@ -29,17 +29,17 @@ section h1 {
 /* links */
 
 a {
-	color: #7dd65b;
+	color: #ff0066;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #7dd65b;
+	color: #ff0066;
 	text-decoration: underline;
 }
 
 a:visited {
-	color: #7dd65b;
+	color: #ff0066;
 }
 
 /* Navigation */
@@ -74,7 +74,7 @@ nav ul li a {
 }
 
 nav ul li a:visited {
-	color: #7dd65b;
+	color: #ff0066;
 }
 
 nav ul li a:hover {
@@ -134,7 +134,7 @@ td.sidebar {
   width: 30%;
   padding: 1em;
   vertical-align: top;
-  background: #e6ff80;
+  background: #ff80b3;
 }
 
 .profile img.gravatar{
@@ -153,7 +153,7 @@ div.field, div.actions {
 .field_with_errors {
   margin-top: 10px;
   padding: 2px;
-  background-color: red;
+  background-color: #ff9494;
   display: table;
 }
 
@@ -167,7 +167,7 @@ div.field, div.actions {
   padding: 7px;
   padding-bottom: 12px;
   margin-bottom: 20px;
-  background-color: #f0f0f0;
+  background-color: #ff9494;
 }
 
 #error_explanation h2{
@@ -176,12 +176,12 @@ div.field, div.actions {
   padding: 5px 5px 5px 15px;
   font-size: 12px;
   margin: -7px;
-  background-color: #c00;
+  background-color: #ff4747;
   color: #fff;
 }
 
 #error_explanation p {
-  color: #333;
+  color: #fff;
   margin-bottom: 0;
   padding: 5px;
 }
