@@ -1,6 +1,11 @@
 require 'rubygems'
 require 'spork'
 
+if Spork.using_spork?
+  ActiveSupport::Dependencies.clear
+  ActiveRecord::Base.instantiate_observers
+end
+
 Spork.prefork do
   # Loading more in this block will cause your tests to run faster. However,
   # if you change any configuration or code from libraries loaded here, you'll

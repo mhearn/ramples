@@ -39,8 +39,8 @@ module StormDispatch
     # Configure sensitive parameters which will be filtered from the log file.
     config.filter_parameters += [:password]
     ### Part of a Spork hack.
-    if Rails.env.test?
-      initializer :after => initialize_dependency_mechanism do
+    if Rails.env.test? && defined?(Spork) && Spork.using_spork?
+      initializer :after => :initialize_dependency_mechanism do
         # Work around initializer
         ActiveSupport::Dependencies.mechanism = :load
       end
