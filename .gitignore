@@ -9,4 +9,5 @@ doc/api
 doc/app
 *.swp
 *~
+lib/tasks/sample_data.rake
 .DS_Store
