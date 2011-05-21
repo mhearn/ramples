@@ -4,7 +4,7 @@
 }
 
 body {
-	background: #ffa366;
+	background: #ff8080;  
 }
 
 header {
@@ -91,7 +91,7 @@ a.signup_button {
 	text-align: center;
 	width: 190px;
 	color: #fff;
-	background: #745293;
+	background: #ffa366;
 	font-size: 150%;
 	font-weight: bold;
 	padding: 20px;
@@ -135,7 +135,7 @@ td.sidebar {
   width: 30%;
   padding: 1em;
   vertical-align: top;
-  background: #ff80b3;
+  background: #ffa366;
 }
 
 .profile img.gravatar{
