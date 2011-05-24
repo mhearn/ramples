@@ -1,5 +1,5 @@
-== Welcome to StormDispatch
+== Welcome to Ramples
 
-This website is intended to be a resource for insurance adjusters to use when deployed or working local claims.
+This website is intended to be a resource for women to go and share and support one another.
 
-Please visit [StormDispatch.com](http://www.stormdispatch.com) or email [me](mailto://michael.e.hearn@gmail.com) for more details.
+Please visit [ramples.com](http://heroku.ramples.com) or email [me](mailto://michael.e.hearn@gmail.com) for more details.
