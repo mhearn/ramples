@@ -11,3 +11,4 @@ doc/app
 *~
 lib/tasks/sample_data.rake
 .DS_Store
+Gemfile*
